@@ -1,7 +1,6 @@
 
 body    {
     margin-top: 0;
-    width: 1900px;
 }
 
 .wrapper    {
@@ -70,13 +69,11 @@ body    {
     vertical-align: top;
 }
 
-.column-1{
-    background-color: lightgreen;
+.column-1 {
     width: 55%;
 }
 
-.column-2{
-    background-color: aqua;
+.column-2 {
     width: 40%;
     margin-left: 5%;
 }
